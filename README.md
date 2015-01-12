@@ -2,6 +2,8 @@
 
 ![docker-meteor](https://cloud.githubusercontent.com/assets/8074/5562265/a3cba180-8e0e-11e4-8bab-9a0f6ec0a395.jpg)
 
+The Meteor images available are on [Docker hub](https://registry.hub.docker.com/u/grigio/meteor/tags/manage/)
+
 More info in a dedicated [post](http://grigio.org/meteor_and_docker_grigio_docker_meteor).
 
 ### Development mode

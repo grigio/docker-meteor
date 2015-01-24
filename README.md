@@ -2,7 +2,12 @@
 
 ![docker-meteor](https://cloud.githubusercontent.com/assets/8074/5562265/a3cba180-8e0e-11e4-8bab-9a0f6ec0a395.jpg)
 
+This is a docker container image which use `node` provided by Meteor itself. You can use `grigio/meteor:<version>` as a development sandbox or as a base to build your production image for your project.
+
+[![grigio meteor](http://dockeri.co/image/grigio/meteor)](https://hub.docker.com/u/grigio/meteor/)
+
 The Meteor images available are on [Docker hub](https://registry.hub.docker.com/u/grigio/meteor/tags/manage/)
+
 
 More info in a dedicated [post](http://grigio.org/meteor_and_docker_grigio_docker_meteor).
 
